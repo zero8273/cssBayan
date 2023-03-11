@@ -56,7 +56,7 @@ i {
 input {
    display: none;
 }
-@media screen and (min-width: 320px) {
+@media screen and (min-width: 820px) {
    img {
       max-width: 65%;
    }
@@ -68,7 +68,7 @@ input {
    }
 }
 
-@media screen and (min-width: 820px) {
+@media screen and (min-width: 1920px) {
    img {
       max-width: 50%;
    }

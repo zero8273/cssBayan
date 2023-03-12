@@ -27,11 +27,11 @@ label {
    cursor: pointer;
 }
 span {
-   font-size: 1em;
+   font-size: 1.25em;
    font-weight: 700;
 }
 i {
-   font-size: 1em;
+   font-size: 1.25em;
    max-height: 0px;
    overflow: hidden;
 }
@@ -63,10 +63,10 @@ input {
       max-width: 65%;
    }
    span {
-      font-size: 1.25em;
+      font-size: 1.5em;
    }
    i {
-      font-size: 1.25em;
+      font-size: 1.5em;
    }
 }
 
@@ -75,10 +75,10 @@ input {
       max-width: 45%;
    }
    span {
-      font-size: 1.5em;
+      font-size: 2em;
    }
    i {
-      font-size: 1.5em;
+      font-size: 2em;
    }
    .mems .mem-input:hover ~ label .content {
       max-height: 120vh;
